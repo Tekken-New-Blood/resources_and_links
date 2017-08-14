@@ -1,0 +1,81 @@
+_**Character Defense**_
+"Duck/LP/Sidestep/Interrupt Info (Made by Fox/Toko) - <https://docs.google.com/spreadsheets/d/1TTNUyFTrSj4mlZBg7DOR5zvH42DH70_4G_-1Cjo6eHE/edit#gid=0>
+ Note: TTT2 info, in the middle of getting updated"
+"Character specific sidestepping guide - <https://cdn.discordapp.com/attachments/321039641514082314/324698382004256768/wlftg1axek3z.png>
+"A Small Workaround to learning how to tech throws based on hands vs characters with more than one command throw - <https://www.reddit.com/r/Tekken/comments/323cfc/tekken_7_new_school_throw_breaking/>
+"How to break King's Throw Chains - <https://cdn.discordapp.com/attachments/321039641514082314/342953899876941835/4cdfa3b-1.png>
+"How to break Nina's Throw Chains - <https://i.redd.it/253phosi2ydz.png>
+"How to Chicken Reversals - <https://youtu.be/q8syC0sjmes>
+ Note: TTT2 but no new chars have reversals anyways"
+
+_**Character Overview**_
+"Character Overview (Written by Fergus2k8) - <https://docs.google.com/document/d/1yqgxbES6su4clpQou2hzlZN40rpPBtwmMRKWfexbj3g/edit>
+"Nobi's Beginner Guide - <http://www.avoidingthepuddle.com/news/2016/3/24/nobis-beginner-guide-videos-for-tekken-7.html>
+ Note: In Japanese with summarys in English Text"
+"TBS Character Overview - <https://www.youtube.com/watch?v=Nbewxse8DlI>
+ Note: Video version of Fergus's guide"
+"LegendaryMihawk's Sample Combos Playlist - <https://www.youtube.com/playlist?list=PLeEk_GDSnydYwPax0IATKf_x5WXYKTwBc&disable_polymer=true>
+ Note: Video Playlist, many of the videos show non-optimal combos"
+"Character Difficulties - <https://cdn.discordapp.com/attachments/321039641514082314/322230303668043776/oug-captureoftekken7-character-difficulties.jpg>
+ Note: A few coaches have noted that these aren't neccessarily all correct in the past"
+"Top 15 moves for all characters - <https://drunkardshade.com/2017/05/27/tekken-7-top-15-moves-for-all-characters/>
+"All Moves Plus On Block - <https://www.youtube.com/watch?v=FoOCRd2rnbU>
+"Bandai Namco Europe Tekken Tutorial and Guides - <https://www.youtube.com/playlist?list=PL2tV1eq7EZhCX5X3SQYcGoDg3w0iiQyjn>
+ Note: Vast majority are introductions to characters, but there are some for gameplay systems"
+"What tools does my character have to punish unsafe attacks? (Made by Fox/Toko) - <https://docs.google.com/spreadsheets/d/1nG960VNjKe4WlYmnLxHqBk0ZO5qJnumDBJ9nBNNQw9w/edit?usp=sharing>
+"List of well known players by character (Made by Fox/Toko) - <https://docs.google.com/spreadsheets/d/1D0GG44N4rRDRepKISEIZ-cwiF2HIzKok7bxWcxu7O5I/edit?usp=sharing>
+
+_**Discord**_
+"Discord Invite Link - <https://discordapp.com/invite/KNwWbf6>
+ Note: We should have this somwhere and possibly apply for discord partnership for a proper URL and background image"
+
+_**esports**_
+"Bandai Namco Official Fight Channel - <https://www.youtube.com/channel/UCKHx_yf3dI2ajWAjXRJ_9Rw>
+ Note: TWT Channel"
+"Tekken World Tour - <http://tekkenworldtour.com/>
+
+_**External Program/Mod**_
+"Throw Break Practice App - <https://www.youtube.com/watch?v=GWE_EaOazKI&feature=youtu.be>
+ Note: Practice breaking throws, but I don't know how useful this is or how accurate it is"
+"TekkenBot Frame Data Overlay/Command Input Overlay - <https://github.com/roguelike2d/TekkenBot#tools>
+ Note: A window that can go over the game to display real time move information read from memory. Requires the game to be in windowed or borderless to work or can be run as a standalone window on a second screen. Display command inputs, similar to the one already in Tekken 7 except it gives frame by frame information and includes cancelable frames. "
+"How to run Tekken below minimum specs (PC) - <https://www.reddit.com/r/Tekken/comments/6m91pr/explaining_how_to_achieve_crispy_low_graphics_for/>
+
+_**Frame Data**_
+"rbnorway frame data - <http://rbnorway.org/T7-frame-data/>
+"iOS Frame Data App - <https://itunes.apple.com/us/app/t7chicken/id1244210422>
+"Android Frame Data App - <https://play.google.com/store/apps/details?id=com.t7chicken>
+"/r/Tekken wiki - <https://www.reddit.com/r/Tekken/wiki/punishment>
+ Note: Incomplete"
+
+_**General Guide**_
+"Tekken 7 Spacing Guide - <https://www.reddit.com/r/Tekken/comments/6g5xa4/comprehensive_tekken_7_spacing_guide/>
+"Tekken 7 Ranking Guide - <http://imgur.com/w96Ekdv>
+"Knee's T7 Beginners Guide - <https://www.youtube.com/watch?v=aoGzxkokiL4>
+ Note: In Korean with Subtitles"
+"JDCR's TTT2 Lessons Condensed and Re-Dubbed - <https://www.youtube.com/watch?v=dsXvwKiJ_oM&list=PLj6_e3GPJNGcLfChv9MgpMzpXG2Hz_Ngw>
+ Note: TTT2, but mostly still relevant"
+"What are Punishers? Punishment Beginner Guide and Block Push-Back Tips - <https://www.youtube.com/watch?v=ncetxnIlkMo>
+"Official T7 Beginner's Guide - <http://web.tekken-net.org/tk7/images_lang/english/common/pdf/torikore.pdf>
+ Note: PDF, Listed Sample Combos and Key Moves are often non-optimal"
+"Someday, We'll Get There Explanation of Frames - <https://cdn.discordapp.com/attachments/321039641514082314/340231584143638528/image.jpg>
+"Fundamental Tekken Mechanics Guide by Speedkicks - <https://docs.google.com/document/d/16TmfE9zF1OrfLUK5xggSKwpgBkxqAw32Z3oHkTqeCKY/edit>
+
+_**Movement Guide**_
+"Proper/Backsway backdash cancelling guide - <https://imgur.com/a/2gMsP>
+"Korean Backdash Guide - <http://shoryuken.com/2017/02/17/this-is-the-year-you-will-learn-how-to-perform-tekkens-korean-backdash/>
+"JDCR Movement Demonstration - <https://www.reddit.com/r/Tekken/comments/61rrmd/jdcr_movement_techniques_demonstration/dfh373g/>
+_**Notation**_
+"Tekken Zaibatsu Legend  - <http://www.tekkenzaibatsu.com/legend.php>
+"Basic Tekken glossary and tips for true beginners - <https://sdtekken.com/tekken-6/tekken-101/>
+"Tekken Jargon - <http://www.tekkenzaibatsu.com/wiki/Tekken_Jargon>
+ Note: Similar to the Tekken Zaibatsu Legend but seems to be more updated, but sorted alphabetically instead of grouping related things together"
+_**Video Playlist**_
+"KingJae's T7 Tutorials - <https://www.youtube.com/watch?v=JwQ8J8iAOLs&list=PLSCxY9aJNnYohfANVI4hSPT00AZsP7wOu>
+"Avoiding the Puddles T7 Tutorials - <https://www.youtube.com/watch?v=ncCRFrZeAXY&list=PLMCyLSAjLlQ0YEDmZ-Esbnzd4gcstVOC5>
+"CALLMEARJ's T7 Tutorials - <https://www.youtube.com/watch?v=BrairnOzq0Y&list=PLNHWZnnotpY3xR_nbqF-MP_X8yHnTP72n>
+"Real Menace TV's T7 Tutorials - <https://www.youtube.com/watch?v=RXOf2FQbZuY&list=PLJi2VBLGkq23mTECmp3ChqdJn8yY19SRG>
+ Note: Video Playlist but not all tutorials, some of it shitposts like F**K KATARINA!"
+"A Street Fighter Player's Guide to Tekken - <https://www.youtube.com/watch?v=bT3axLJCUOI&list=PL2N8qJGW36fx_gu6lKkjF_GmEzHl7gj-D>
+"JDCR's T7 Tutorials - <https://www.youtube.com/watch?v=2aD614Uq0qw&list=PLBp2uublw0gRsidqM-Oo4oUx0cHni3Y7B>
+ Note: Video Playlist in Korean with Subtitles"
