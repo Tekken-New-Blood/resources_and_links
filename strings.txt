@@ -4,9 +4,10 @@ _**Character Defense**_
 "Character specific sidestepping guide - <https://cdn.discordapp.com/attachments/321039641514082314/324698382004256768/wlftg1axek3z.png>
 "A Small Workaround to learning how to tech throws based on hands vs characters with more than one command throw - <https://www.reddit.com/r/Tekken/comments/323cfc/tekken_7_new_school_throw_breaking/>
 "How to break King's Throw Chains - <https://cdn.discordapp.com/attachments/321039641514082314/342953899876941835/4cdfa3b-1.png>
-"How to break Nina's Throw Chains - <https://i.redd.it/253phosi2ydz.png>
+"How to break Nina's Throw Chains - <https://i.redd.it/mjjqszmeutez.png>
 "How to Chicken Reversals - <https://youtu.be/q8syC0sjmes>
  Note: TTT2 but no new chars have reversals anyways"
+ "Fireball Mechanics - <https://www.youtube.com/watch?v=rW_RFFaLkT4>"
 
 _**Character Overview**_
 "Character Overview (Written by Fergus2k8) - <https://docs.google.com/document/d/1yqgxbES6su4clpQou2hzlZN40rpPBtwmMRKWfexbj3g/edit>
@@ -59,6 +60,7 @@ _**General Guide**_
 "Official T7 Beginner's Guide - <http://web.tekken-net.org/tk7/images_lang/english/common/pdf/torikore.pdf>
  Note: PDF, Listed Sample Combos and Key Moves are often non-optimal"
 "Someday, We'll Get There Explanation of Frames - <https://cdn.discordapp.com/attachments/321039641514082314/340231584143638528/image.jpg>
+"Top 7 Mistakes Made By Beginners in Tekken 7! - <https://www.youtube.com/watch?v=RYn9kjlXHmU>"
 "Fundamental Tekken Mechanics Guide by Speedkicks - <https://docs.google.com/document/d/16TmfE9zF1OrfLUK5xggSKwpgBkxqAw32Z3oHkTqeCKY/edit>
 
 _**Movement Guide**_
