@@ -84,4 +84,5 @@ _**Video Playlist**_
  Note: Video Playlist in Korean with Subtitles"
  
  _**Deathmatch Database**_
- <http://tekkendb.com/>
+"Tekken DB - <http://tekkendb.com/>
+ Note: Database of high level Korean deathmatches sortable by rank, name, or character
