@@ -82,3 +82,6 @@ _**Video Playlist**_
 "A Street Fighter Player's Guide to Tekken - <https://www.youtube.com/watch?v=bT3axLJCUOI&list=PL2N8qJGW36fx_gu6lKkjF_GmEzHl7gj-D>
 "JDCR's T7 Tutorials - <https://www.youtube.com/watch?v=2aD614Uq0qw&list=PLBp2uublw0gRsidqM-Oo4oUx0cHni3Y7B>
  Note: Video Playlist in Korean with Subtitles"
+ 
+ _**Deathmatch Database**_
+ <http://tekkendb.com/>
