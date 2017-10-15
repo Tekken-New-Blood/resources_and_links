@@ -86,3 +86,6 @@ _**Video Playlist**_
  _**Deathmatch Database**_
 "Tekken DB - <http://tekkendb.com/>
  Note: Database of high level Korean deathmatches sortable by rank, name, or character"
+
+_**Character Specific Discords**_
+<https://www.evernote.com/shard/s684/sh/4314e59b-100f-43f5-89dc-df5adb35da43/49cbf466e6fb8e2f436b293b7537637e>
